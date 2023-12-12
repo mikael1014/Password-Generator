@@ -1,5 +1,5 @@
 Password-Generator
-https://password-generator-i9lfo5sgn-mikaels-projects-33ee25fa.vercel.app/
+https://password-generator-ivory-ten.vercel.app/
 Here is a simple JavaScript application that generates random passwords.
 
 Features:
